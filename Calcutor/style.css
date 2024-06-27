@@ -2,11 +2,11 @@
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  background-color: #ffffff;
+  background-color: #b49292;
   font-family: sans-serif;
   outline: none;
 }
-
+/* branch computerB we change backgound color */
 .container {
   height: 100vh;
   display: flex;
