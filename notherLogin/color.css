@@ -1,0 +1,184 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  position:relative;
+  text-align: center;
+  background-color: gray;
+  align-items: center;
+  justify-content: center;
+  display: block;
+  /* height: 400px;
+  width: 300px; */
+}
+
+.container #person {
+  position: relative;
+  border-radius: 50%;
+  /* margin-left: 100px; */
+  background-color: red;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 100px;
+  width: 100px;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #4d9758, #364a6d);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container {
+  width: 100%;
+  max-width: 400px;
+}
+
+.login-box {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.avatar {
+  margin-bottom: 20px;
+}
+
+.avatar img {
+  width: 96px;
+  height: 96px;
+}
+
+h2 {
+  margin: 0 0 20px;
+  font-size: 24px;
+}
+
+.textbox {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.textbox input {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.btn {
+  width: 100%;
+  background: #00aaff;
+  border: none;
+  padding: 10px;
+  font-size: 18px;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background: #008ecc;
+}
+
+.remember-me {
+  margin-top: 10px;
+  text-align: left;
+  display: inline;
+}
+
+.forgot-password {
+  margin-top: 10px;
+  text-align: right;
+  display: inline;
+}
+
+.forgot-password a {
+  color: #00aaff;
+  text-decoration: none;
+}
+
+.register {
+  margin-top: 20px;
+}
+
+.register a {
+  color: #00aaff;
+  text-decoration: none;
+}
+
+.password-box {
+  display: flex;
+  align-items: center;
+}
+
+.password-box #eye-icon {
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+}
+
+.textbox #eye-icon{
+  display: inline;
+}
+
+
+/* .rememberForgot {
+  justify-content: space-between;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
